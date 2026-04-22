@@ -41,7 +41,7 @@ Feature-based machine learning, especially XGBoost, outperformed both the classi
 Python, NumPy, Pandas, Scikit-learn, XGBoost, TensorFlow, Lightkurve, Astroquery, Matplotlib
 
 ## Files
-- `Kepler_final.ipynb` — main notebook
+- `Kepler.ipynb` — main notebook
 - `Final Project Report.pdf` — final report
 
 ## Author
